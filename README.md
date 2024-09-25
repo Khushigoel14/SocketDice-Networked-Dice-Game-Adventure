@@ -50,12 +50,12 @@ Two clients, Player 1 (TOTO) and Player 2 (TITI), connect to the server.
 The server sends the "You can now play" message to Player 1. Player 1 rolls the dice, and the score is sent back to the server.
 
 ![Player 1 Playing](Extras/player1_playing1.png)
-(Extras/player1_playing2.png)
+![Player 1 Playing](Extras/player1_playing2.png)
 
 Next, it's Player 2's turn. The server sends the "You can now play" message to Player 2, and Player 2 rolls the dice.
 
 ![Player 2 Playing](Extras/player2_playing1.png)
-(Extras/player2_playing2.png)
+![Player 2 Playing](Extras/player2_playing2.png)
 
 Once a player reaches a score of 100, the server declares the winner. In this example, Player 2 wins the game.
 
@@ -90,4 +90,4 @@ Feel free to fork this repository, experiment, and even improve upon it. Happy c
 
 ---
 
-**Note**: To run this project, you'll need a Linux/Unix environment with GCC installed. Follow the instructions in the `setup_instructions.md` file for detailed steps on how to compile and execute the server and client programs.
+**Note**: To run this project, you'll need a Linux/Unix environment with GCC installed.
