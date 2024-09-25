@@ -43,7 +43,7 @@ The server starts and waits for clients to connect.
 
 ![Server Waiting](Extras/server_waiting.png)
 
-Two clients, Player 1 (TOTO) and Player 2 (TITI), connect to the server.
+Two clients, Player 1 (Michael Scott) and Player 2 (Jim Halpert), connect to the server.
 
 **Step 2: Gameplay Begins**
 
